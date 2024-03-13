@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmahek&label=Profile%20views&color=0e75b6&style=flat" alt="mmahek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmahek" alt="mmahek" /></a> </p>
-
+<img align="right" alt="coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 - 🔭 I’m currently in **My 4th semester**
 
 - 🌱 I’m currently learning **Life.**
@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [@mmahek](@mmahek)
 
 - 📫 How to reach me **mahek.11@lpu.in**
-<img align="right" alt="coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
