@@ -1,5 +1,5 @@
 # mmmahek
-![logo]("C:\Users\dell\OneDrive\Pictures\Screenshots\Screenshot (631).png")
+![logo](https://github.com/mmahek/mmmahek/blob/main/Screenshot%20(631).png)
 <h1 align="center">Hi 👋, I'm Mahek</h1>
 <h3 align="center">A 2nd year Btech Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmahek&label=Profile%20views&color=0e75b6&style=flat" alt="mmahek" /> </p>
