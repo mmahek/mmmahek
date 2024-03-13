@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [@mmahek](@mmahek)
 
 - 📫 How to reach me **mahek.11@lpu.in**
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
